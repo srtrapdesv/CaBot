@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Gerador de Halitas",
+      "description": "Uma máquina que gera uma quantidade pequena (0,001) de Halitas por hora",
+      "cost": {
+        "dindins": 180000,
+        "halitas": 0
+      }
+    },
+
+    {
+      "id": 1,
+      "name": "Caixa Eletrônico",
+      "description": "Joga DinDins para fora de hora em hora para você",
+      "cost": {
+        "dindins": 20000,
+        "halitas": 12
+      }
+    },
+
+    {
+      "id": 2,
+      "name": "Halita por DinDins",
+      "description": "Venda 1 Halita em troca de 10 mil DinDins",
+      "cost": {
+        "dindins": 0,
+        "halitas": 1
+      }
+    },
+
+    {
+      "id": 3,
+      "name": "Daily Automático",
+      "description": "Caso esqueça de pegar o Daily, o Daily Automático pegará ele para você às 15:00 por 15 dias.",
+      "cost": {
+        "dindins": 5000,
+        "halitas": 2
+      }
+    }
+  ]
+}
